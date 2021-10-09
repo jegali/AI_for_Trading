@@ -19,5 +19,5 @@ In this course, you will get to know the workflow that a quant follows for signa
 
 In the project, you will code and evaluate a breakout signal. You will run statistical tests to test for normality and to find alpha. You will also learn to find outliers and evaluate the effect that filtered outliers could have on your trading signal. You will run various scenarios of your model with or without the outliers and decide if the outliers should be kept or not.
 
-[Project 1: Trading with Momentum](https://github.com/jegali/AI_for_Trading/tree/main/Trading_with_Momentum)
+[Project 2: Breakout Strategy](https://github.com/jegali/AI_for_Trading/tree/main/Trading_with_Momentum)
 <br/><br/>
