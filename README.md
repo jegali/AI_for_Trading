@@ -1,6 +1,6 @@
 # AI for Trading
 
-This repository contains detailed notes and multiple projects implemented in Python for the "AI for Healthcare"-Nanodegree of Udacity.
+This repository contains detailed notes and multiple projects implemented in Python for the "AI for Trading"-Nanodegree of Udacity.
 <br/><br/>
 
 ## Course 1: Basic Quantitative Trading
