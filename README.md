@@ -21,3 +21,14 @@ In the project, you will code and evaluate a breakout signal. You will run stati
 
 [Project 2: Breakout Strategy](https://github.com/jegali/AI_for_Trading/tree/main/Trading_with_Momentum)
 <br/><br/>
+
+
+## Course 3: Stocks, Indices, and ETFs
+
+In this course, you will learn about portfolio optimization, and financial securities formed by stocks such as market indices, vanilla ETFs, and Smart Beta ETFs.
+
+In the project, you will create two portfolios utilizing smart beta methodology and optimization. You will evaluate the performance of the portfolios by calculating tracking errors. You will also calculate the turnover of your portfolio and find the best timing to rebalance. You will come up with the portfolio weights by analyzing fundamental
+data, and by quadratic programming. 
+
+[Project 3: Smart Beta and Portfolio Optimization](https://github.com/jegali/AI_for_Trading/tree/main/Stocks_Indices_ETF)
+<br/><br/>
