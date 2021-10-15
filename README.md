@@ -40,5 +40,5 @@ In this course, you will learn about alpha factors and risk factors, and constru
 
 In this project, you will research and generate multiple alpha factors. Then you will apply various techniques to evaluate the performance of your alpha factors and learn to pick the best ones for your portfolio. You will formulate an advanced portfolio optimization problem by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures.
 
-[Project 4: Factor Investing and Alpha Research](https://github.com/jegali/AI_for_Trading/tree/main/Stocks_Indices_ETF)
+[Project 4: Factor Investing and Alpha Research](https://github.com/jegali/AI_for_Trading/tree/main/Smart_Beta_and_Portfolio_Optimization)
 <br/><br/>
