@@ -32,3 +32,13 @@ data, and by quadratic programming.
 
 [Project 3: Smart Beta and Portfolio Optimization](https://github.com/jegali/AI_for_Trading/tree/main/Stocks_Indices_ETF)
 <br/><br/>
+
+
+## Course 4: Factor Investing and Alpha Research
+
+In this course, you will learn about alpha factors and risk factors, and construct a portfolio with advanced portfolio optimization techniques.
+
+In this project, you will research and generate multiple alpha factors. Then you will apply various techniques to evaluate the performance of your alpha factors and learn to pick the best ones for your portfolio. You will formulate an advanced portfolio optimization problem by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures.
+
+[Project 4: Factor Investing and Alpha Research](https://github.com/jegali/AI_for_Trading/tree/main/Stocks_Indices_ETF)
+<br/><br/>
