@@ -38,7 +38,17 @@ data, and by quadratic programming.
 
 In this course, you will learn about alpha factors and risk factors, and construct a portfolio with advanced portfolio optimization techniques.
 
-In this project, you will research and generate multiple alpha factors. Then you will apply various techniques to evaluate the performance of your alpha factors and learn to pick the best ones for your portfolio. You will formulate an advanced portfolio optimization problem by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures.
+In the project, you will research and generate multiple alpha factors. Then you will apply various techniques to evaluate the performance of your alpha factors and learn to pick the best ones for your portfolio. You will formulate an advanced portfolio optimization problem by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures.
 
 [Project 4: Factor Investing and Alpha Research](https://github.com/jegali/AI_for_Trading/tree/main/Smart_Beta_and_Portfolio_Optimization)
+<br/><br/>
+
+
+## Course 5: Sentiment Analysis with Natural Language Processing
+
+In this course, you will learn the fundamentals of text processing and use them to analyze corporate filings and generate sentiment-based trading signals.
+
+In the project, you will apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. You will utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, you will decide which company to invest in, and the optimal time to buy or sell.
+
+[Project 5: Sentiment Analysis with Natural Language Processing](https://github.com/jegali/AI_for_Trading/tree/main/Smart_Beta_and_Portfolio_Optimization)
 <br/><br/>
