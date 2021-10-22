@@ -11,7 +11,7 @@ In the project, you will learn to implement a momentum trading strategy and test
 
 [Project 1: Trading with Momentum](https://github.com/jegali/AI_for_Trading/tree/main/Trading_with_Momentum)
 <br/><br/>
-
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Trading_with_Momentum/project_review.md)
 
 ## Course 2: Advanced Quantitative Trading
 
