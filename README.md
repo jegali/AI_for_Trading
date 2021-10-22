@@ -55,3 +55,37 @@ In the project, you will apply Natural Language Processing on corporate filings,
 
 [Project 5: Sentiment Analysis with Natural Language Processing](https://github.com/jegali/AI_for_Trading/tree/main/Smart_Beta_and_Portfolio_Optimization)
 <br/><br/>
+
+
+## Course 6: Advanced Natural Language Processing with Deep Learning
+
+In this course, you will get to know how deep learning is applied in quantitative analysis and get to use Recurrent Neural Networks (RNN) and Long Short-Term Memory Networks (LSTM) to generate trading signals.
+
+In the project, you will build deep neural networks to process and interpret news data. You will also play with different ways of embedding words into vectors. You will construct and train LSTM networks for sentiment classification. You will run backtests and apply the models to news data for signal generation.
+
+[Project 6: Advanced Natural Language Processing with Deep Learning](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/README.md)<br/>
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/project_review.md)
+<br/><br/>
+
+
+## Course 7: Combining Multiple Signals
+
+In this course, you will learn about advanced techniques to select and combine the factors that you’ve generated from both alternative data and market data.
+
+In this project, you’ll combine signals on a random forest for enhanced alpha. While implementing this, you’ll have to solve the problem of overlapping samples. For the dataset, we’ll be using the end of day from Quotemedia and sector data from Sharadar.
+
+[Project 7: Combining Multiple Signals](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/README.md)<br/>
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/project_review.md)
+<br/><br/>
+
+
+# Course 8: Simulating Trades with Historical Data
+
+In this course, you will build a fairly realistic backtester that uses the Barra data. The backtester will perform portfolio optimization that includes transaction costs, and you’ll implement it with computational efficiency in mind, to allow for a reasonably fast backtest. You’ll also use performance attribution to identify the major drivers of your portfolio’s profit-and-loss (PnL). You will have the option to modify and customize the backtest as well.
+
+In the project, you’ll combine signals on a random forest for enhanced alpha. While implementing this, you’ll have to solve the problem of overlapping samples. For the dataset, we’ll be using the end of day from Quotemedia and sector data from Sharadar.
+
+[Project 8: Simulating Trades with Historical Data](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/README.md)<br/>
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/project_review.md)
+<br/><br/>
+
