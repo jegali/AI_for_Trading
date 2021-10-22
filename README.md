@@ -53,7 +53,8 @@ In this course, you will learn the fundamentals of text processing and use them 
 
 In the project, you will apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. You will utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, you will decide which company to invest in, and the optimal time to buy or sell.
 
-[Project 5: Sentiment Analysis with Natural Language Processing](https://github.com/jegali/AI_for_Trading/tree/main/Smart_Beta_and_Portfolio_Optimization)
+[Project 5: Sentiment Analysis with Natural Language Processing](https://github.com/jegali/AI_for_Trading/blob/main/Sentiment_Analysis_with_NLP/README.md)<br/>
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Sentiment_Analysis_with_NLP/project_review.md)
 <br/><br/>
 
 
