@@ -64,8 +64,8 @@ In this course, you will get to know how deep learning is applied in quantitativ
 
 In the project, you will build deep neural networks to process and interpret news data. You will also play with different ways of embedding words into vectors. You will construct and train LSTM networks for sentiment classification. You will run backtests and apply the models to news data for signal generation.
 
-[Project 6: Advanced Natural Language Processing with Deep Learning](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/README.md)<br/>
-[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/project_review.md)
+[Project 6: Advanced Natural Language Processing with Deep Learning](https://github.com/jegali/AI_for_Trading/blob/main/Analyzing_Stock_sentiment_from_Twits/README.md)<br/>
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Analyzing_Stock_sentiment_from_Twits/project_review.md)
 <br/><br/>
 
 
