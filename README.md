@@ -31,8 +31,8 @@ In this course, you will learn about portfolio optimization, and financial secur
 In the project, you will create two portfolios utilizing smart beta methodology and optimization. You will evaluate the performance of the portfolios by calculating tracking errors. You will also calculate the turnover of your portfolio and find the best timing to rebalance. You will come up with the portfolio weights by analyzing fundamental
 data, and by quadratic programming. 
 
-[Project 3: Smart Beta and Portfolio Optimization](https://github.com/jegali/AI_for_Trading/main/Smart_Beta_and_Portfolio_Optimization/README.md)<br/>
-[Project Review by udacity](https://github.com/jegali/AI_for_Trading/main/Smart_Beta_and_Portfolio_Optimization/project_review.md)
+[Project 3: Smart Beta and Portfolio Optimization](https://github.com/jegali/AI_for_Trading/blob/main/Smart_Beta_and_Portfolio_Optimization/README.md)<br/>
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Smart_Beta_and_Portfolio_Optimization/project_review.md)
 <br/><br/>
 
 
