@@ -75,8 +75,8 @@ In this course, you will learn about advanced techniques to select and combine t
 
 In this project, you’ll combine signals on a random forest for enhanced alpha. While implementing this, you’ll have to solve the problem of overlapping samples. For the dataset, we’ll be using the end of day from Quotemedia and sector data from Sharadar.
 
-[Project 7: Combining Multiple Signals](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/README.md)<br/>
-[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/project_review.md)
+[Project 7: Combining Multiple Signals](https://github.com/jegali/AI_for_Trading/blob/main/Combine_Signals_for_Enhanced_Alpha/README.md)<br/>
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Combine_Signals_for_Enhanced_Alpha/project_review.md)
 <br/><br/>
 
 
