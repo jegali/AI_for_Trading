@@ -86,7 +86,7 @@ In this course, you will build a fairly realistic backtester that uses the Barra
 
 In the project, you’ll combine signals on a random forest for enhanced alpha. While implementing this, you’ll have to solve the problem of overlapping samples. For the dataset, we’ll be using the end of day from Quotemedia and sector data from Sharadar.
 
-[Project 8: Simulating Trades with Historical Data](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/README.md)<br/>
-[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Factor_Investing_and_Alpha_Research/project_review.md)
+[Project 8: Simulating Trades with Historical Data](https://github.com/jegali/AI_for_Trading/blob/main/Backtesting/README.md)<br/>
+[Project Review by udacity](https://github.com/jegali/AI_for_Trading/blob/main/Backtesting/project_review.md)
 <br/><br/>
 
